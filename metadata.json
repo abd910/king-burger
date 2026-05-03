@@ -1,0 +1,12 @@
+{
+  "name": "King Burger Co.",
+  "description": "A high-conversion, modern fast-food platform with AI-powered recommendations, optimized menu flows, and a bold energetic design system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Recommendations",
+    "Store Locator",
+    "Online Ordering"
+  ]
+}
